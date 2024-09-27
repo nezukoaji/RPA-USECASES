@@ -1,2 +1,3 @@
 # RPA-USECASES
-In this Repo You can find Unique UiPath Use cases 
+1.Fire and smoke detection bot
+2.plant disease prediction and solution Provider Bot
